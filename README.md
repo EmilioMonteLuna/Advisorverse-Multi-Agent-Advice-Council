@@ -100,5 +100,5 @@ MIT License
 
 ## Author
 
-**Emilio Monte Luna**  
-<a href="https://github.com/EmilioMonteLuna">GitHub</a> | <a href="https://www.kaggle.com/emiliomunteluna">Kaggle Profile</a>
+**Emilio Montelongo Luna**  
+<a href="https://github.com/EmilioMonteLuna">GitHub</a> | <a href="https://www.kaggle.com/emiliomontelongoluna">Kaggle Profile</a>
